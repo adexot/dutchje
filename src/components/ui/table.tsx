@@ -4,7 +4,7 @@ export function Table() {
   const { headers, verbs } = verbsData
 
   return (
-    <div className="w-full h-[calc(100vh-8rem)] overflow-auto">
+    <div className="w-full h-[calc(100vh-6rem)] overflow-auto">
       <table className="w-full">
         <thead>
           <tr>
